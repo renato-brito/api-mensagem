@@ -12,13 +12,13 @@ services:
   spring1:
     depends_on:
       - db
-    build: .
+    image: 160982/api-mensagem
     restart: always
 
   spring2:
     depends_on:
       - db
-    build: .
+    image: 160982/api-mensagem
     restart: always
 
   loadbalance:
