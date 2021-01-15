@@ -1,6 +1,11 @@
 # api-mensagem
 Trabalho final da disciplina de Containers and Virtualization da FIAP
 
+Integrantes:
+
+- Harold Isaac Campero Stoffers Murillo - 337233
+- Renato Santana Brito - 337364
+
 ## Executando
 
 ```
